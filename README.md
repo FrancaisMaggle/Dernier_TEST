@@ -87,4 +87,4 @@ Formation intégration web vendredi 14 février 2025 Dev Jeux Vidéo 2024-2025
 JEU PYTHON TROUBLES DYS
 Ce projet est sous licence propriétaire.
 Toute reproduction ou distribution sans autorisation est interdite.
- Développé par : Jean-Claude Lugo, formateur chez MODE 83 Draguignan
+ Développé par : Tiphaine Martin
